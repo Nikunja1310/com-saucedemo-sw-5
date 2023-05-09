@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="7115" started-at="2023-05-07T15:24:15 AEST" finished-at="2023-05-07T15:24:22 AEST">
+    <groups>
+    </groups>
+    <test name="com-saucedemo-sw-5" duration-ms="7115" started-at="2023-05-07T15:24:15 AEST" finished-at="2023-05-07T15:24:22 AEST">
+      <class name="com.saucedemo.testsuite.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.saucedemo.testsuite.LoginTest@396f6598]" name="setUp" is-config="true" duration-ms="4036" started-at="2023-05-07T15:24:15 AEST" finished-at="2023-05-07T15:24:19 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="userShouldLoginSuccessfullyWithValidCredentials()[pri:0, instance:com.saucedemo.testsuite.LoginTest@396f6598]" name="userShouldLoginSuccessfullyWithValidCredentials" duration-ms="214" started-at="2023-05-07T15:24:19 AEST" finished-at="2023-05-07T15:24:19 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShouldLoginSuccessfullyWithValidCredentials -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.testsuite.LoginTest@396f6598]" name="tearDown" is-config="true" duration-ms="633" started-at="2023-05-07T15:24:19 AEST" finished-at="2023-05-07T15:24:20 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.saucedemo.testsuite.LoginTest@396f6598]" name="setUp" is-config="true" duration-ms="1330" started-at="2023-05-07T15:24:20 AEST" finished-at="2023-05-07T15:24:21 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyThatSixProductsAreDisplayedOnPage()[pri:0, instance:com.saucedemo.testsuite.LoginTest@396f6598]" name="verifyThatSixProductsAreDisplayedOnPage" duration-ms="246" started-at="2023-05-07T15:24:21 AEST" finished-at="2023-05-07T15:24:21 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyThatSixProductsAreDisplayedOnPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.testsuite.LoginTest@396f6598]" name="tearDown" is-config="true" duration-ms="624" started-at="2023-05-07T15:24:21 AEST" finished-at="2023-05-07T15:24:22 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.testsuite.LoginTest -->
+    </test> <!-- com-saucedemo-sw-5 -->
+  </suite> <!-- Default Suite -->
+</testng-results>
